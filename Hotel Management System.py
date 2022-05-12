@@ -5,6 +5,9 @@ import time
 from pprint import pprint
 from sys import exit
 
+
+# cool
+
 name,number,mail,address,Night,code,details,database,price,Atm,Price,pincode,Roomcode,My_select,rum= "Admin","08162210489","","No 17, Surulere. Soka, Ibadan","","",{},{"Admin" : {"Name" : "Monsuru",
 "Number" : "08162210489",
 "Roomcode" : "001",
